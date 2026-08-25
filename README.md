@@ -1,3 +1,5 @@
+**Note:** This repository is **not maintained anymore**. For the latest version of the code please go to [**`https://github.com/ift-tuwien/pyfocas`**](https://github.com/ift-tuwien/pyfocas) instead.
+
 # pyfocas
 
 This project is a barebones reimplementation of the FANUC FOCAS protocol for
